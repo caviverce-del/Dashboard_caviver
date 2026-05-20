@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard CAVIVER",
+  "description": "Dashboard Executivo e Painel de Business Intelligence de alta performance para o Centro de Aperfeiçoamento Visual Ver a Esperança Renascer (CAVIVER).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
